@@ -1,8 +1,11 @@
 # Hi, I'm Alejandro 👋
 
 🎓 I'm a Web developer
+
 💻 I enjoy building web applications that solve real-world problems  
+
 🌐 Currently working on: a React Native gym tracker app with workout logging, progress tracking, and Firebase backend — planning to add offline support and push notifications
+
 📚 Learning: Redux, backend optimization, and real-time features
 
 ## 🛠 Tech Stack
@@ -19,4 +22,4 @@
 ## 📫 Let’s Connect
 - 📧 alejandroprado885@gmail.com
 - 🌐 [Portfolio](TODO)
-- 🧑‍💼 [LinkedIn](www.linkedin.com/in/aliprado)
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/aliprado)
